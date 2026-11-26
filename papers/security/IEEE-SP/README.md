@@ -4,4 +4,9 @@ Curated AI safety, security, and privacy papers accepted at the IEEE Symposium o
 
 ## Yearly Lists
 
-Yearly lists will be added as `YYYY.md` files in this directory.
+- [IEEE S&P 2026](2026.md)
+- [IEEE S&P 2025](2025.md)
+- [IEEE S&P 2024](2024.md)
+- [IEEE S&P 2023](2023.md)
+- [IEEE S&P 2022](2022.md)
+- [IEEE S&P 2021](2021.md)

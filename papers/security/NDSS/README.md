@@ -4,4 +4,9 @@ Curated AI safety, security, and privacy papers accepted at the Network and Dist
 
 ## Yearly Lists
 
-Yearly lists will be added as `YYYY.md` files in this directory.
+- [NDSS 2026](2026.md)
+- [NDSS 2025](2025.md)
+- [NDSS 2024](2024.md)
+- [NDSS 2023](2023.md)
+- [NDSS 2022](2022.md)
+- [NDSS 2021](2021.md)

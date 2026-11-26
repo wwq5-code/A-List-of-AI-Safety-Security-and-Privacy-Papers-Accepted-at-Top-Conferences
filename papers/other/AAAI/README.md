@@ -4,4 +4,9 @@ Curated AI safety, security, and privacy papers accepted at the AAAI Conference 
 
 ## Yearly Lists
 
-Yearly lists will be added as `YYYY.md` files in this directory.
+- [AAAI 2026](2026.md)
+- [AAAI 2025](2025.md)
+- [AAAI 2024](2024.md)
+- [AAAI 2023](2023.md)
+- [AAAI 2022](2022.md)
+- [AAAI 2021](2021.md)

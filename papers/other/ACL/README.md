@@ -4,4 +4,9 @@ Curated AI safety, security, and privacy papers accepted at the Annual Meeting o
 
 ## Yearly Lists
 
-Yearly lists will be added as `YYYY.md` files in this directory.
+- [ACL 2026](2026.md)
+- [ACL 2025](2025.md)
+- [ACL 2024](2024.md)
+- [ACL 2023](2023.md)
+- [ACL 2022](2022.md)
+- [ACL 2021](2021.md)
